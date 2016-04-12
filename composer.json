@@ -1,5 +1,5 @@
 {
-    "name": "bmatics/odataparser",
+    "name": "dlouvard/odataparser",
     "description": "Odata query string parser for Laravel 5",
     "license": "MIT",
     "authors": [
